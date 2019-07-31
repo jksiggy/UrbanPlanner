@@ -1,0 +1,11 @@
+C:\users\jksig\workspace\c#Exercise\urbanPlanner\bin\Debug\netcoreapp2.2\urbanPlanner.deps.json
+C:\users\jksig\workspace\c#Exercise\urbanPlanner\bin\Debug\netcoreapp2.2\urbanPlanner.runtimeconfig.json
+C:\users\jksig\workspace\c#Exercise\urbanPlanner\bin\Debug\netcoreapp2.2\urbanPlanner.runtimeconfig.dev.json
+C:\users\jksig\workspace\c#Exercise\urbanPlanner\bin\Debug\netcoreapp2.2\urbanPlanner.dll
+C:\users\jksig\workspace\c#Exercise\urbanPlanner\bin\Debug\netcoreapp2.2\urbanPlanner.pdb
+C:\users\jksig\workspace\c#Exercise\urbanPlanner\obj\Debug\netcoreapp2.2\urbanPlanner.csprojAssemblyReference.cache
+C:\users\jksig\workspace\c#Exercise\urbanPlanner\obj\Debug\netcoreapp2.2\urbanPlanner.csproj.CoreCompileInputs.cache
+C:\users\jksig\workspace\c#Exercise\urbanPlanner\obj\Debug\netcoreapp2.2\urbanPlanner.AssemblyInfoInputs.cache
+C:\users\jksig\workspace\c#Exercise\urbanPlanner\obj\Debug\netcoreapp2.2\urbanPlanner.AssemblyInfo.cs
+C:\users\jksig\workspace\c#Exercise\urbanPlanner\obj\Debug\netcoreapp2.2\urbanPlanner.dll
+C:\users\jksig\workspace\c#Exercise\urbanPlanner\obj\Debug\netcoreapp2.2\urbanPlanner.pdb
